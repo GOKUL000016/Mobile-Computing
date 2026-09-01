@@ -2,7 +2,7 @@
 
 Student: Gokul D  
 Course: B.Tech Information Technology 
-Subject: ITA03 Mobile Computing  
+Subject: ITA0304 Mobile Computing  
 
 ## Overview
 This repository contains 30 mobile computing lab experiments utilizing Figma to design UI interfaces, mobile architectures, interactive prototypes, and protocol workflows.
