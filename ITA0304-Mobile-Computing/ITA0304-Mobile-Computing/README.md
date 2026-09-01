@@ -1,7 +1,7 @@
 # ITA03 Mobile Computing Lab
 
-Student: Soumya S  
-Course: B.Tech Artificial Intelligence and Data Science  
+Student: Gokul D  
+Course: B.Tech Information Technology 
 Subject: ITA03 Mobile Computing  
 
 ## Overview
